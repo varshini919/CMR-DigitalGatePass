@@ -16,7 +16,6 @@ A React-based web application for managing digital gate pass requests through a 
 - TypeScript
 - Vite
 - CSS
-- Lucide React
 - Git
 - GitHub
 
